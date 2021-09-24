@@ -1,0 +1,22 @@
+body { font-family: sans-serif, "Lucida Sans Unicode";
+font-size; 15px; color: #191970;
+background-color: #DCDCDC;}
+
+p {width: 80%;}
+ul li {list-style-type: circle; line-height: 200%;}
+ol li { list-style-type:numbers; line-height: 180%; width: 65%;}
+
+h1 { font-family: sans-serif, "Lucida Sans Unicode";
+font-size; 19px; font-weight: bold: color: #191970; text-align: center;}
+h2 { font-family: sans-serif, "Lucida Sans Unicode";
+font-size; 17px; font-weight: bold: color: #191970; text-align: center;}
+h3 { font-family: sans-serif, "Lucida Sans Unicode";
+font-size; 15px; font-weight: bold: color: #191970; text-align: center; margin-top; 15px;}
+
+a:link {color: #DC143C; text-decoration: narrower;}
+a:visited {color: #8B0000;}
+a:active {color: #B22222;}
+a:hover {color: #FF0000; text-decoration: underline;}
+
+#irdk {position: absolute; z-index: 15; padding: 0 0 20px 20px; margin-top: 25px; margin-left: 350px; width: 80%; margin-right: 250px}
+#login {position: absolute; z-index: 10; width: 345px; height: 600px; margin-top: 25px; border-right: 1px solid #191970; font-weight:normal;}
